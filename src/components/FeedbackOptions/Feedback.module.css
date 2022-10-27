@@ -14,10 +14,10 @@
     padding: 5px 10px;
   }
   button:nth-child(1) {
-    background-color: green;
+    background-color: rgb(4, 66, 254);
   }
   button:nth-child(2) {
-    background-color: yellow;
+    background-color: rgb(255, 1, 221);
   }
   button:nth-child(3) {
     background-color: red;
